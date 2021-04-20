@@ -1,6 +1,15 @@
 # readme-generator-09
+https://user-images.githubusercontent.com/74513438/115338613-0485be80-a158-11eb-98ca-75c49a8192ec.mov
 
-Uploading Screen Recording 2021-04-19 at 9.07.49 PM.mov…
+## Installation
+ The user will clone the repository and run the index.js file through node. A series of questions will then appear to fill out what is needed.
+```bash
+node index.js
+```
 
-Title: Read.Me Generator
-User Story: The user will be able to create a good Read.me just by deploying commands through the terminal/console! Run the command node index.js once node files and repository are downloaded. A series of questions will then appear and answers will be filled into a template.
+## Usage
+This application is a quick and perfect way to start off a basic readme for your project.
+
+
+## License
+[MIT]
